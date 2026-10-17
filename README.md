@@ -1,4 +1,4 @@
-# Tema-1--Hidrost-tica
+# Tema-1-Hidrostatica
 Tema 1
 
 # Hidrostática: Mecánica de Fluidos en Reposo
